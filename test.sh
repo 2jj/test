@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo #TEST_VAR
+echo $TEST_VAR
